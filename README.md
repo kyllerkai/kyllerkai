@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Reactjs (React Native), TypeScript, Nuxtjs
 - 💞️ I’m looking to collaborate on projects with Reacjs
 
-<!---
-kyllerkai/kyllerkai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>
+  <a href="https://github.com/kyllerkai"><img align="left" height="232rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyllerkai&theme=nord&hide_border=true" /></a>
+  <a href="https://github.com/kyllerkai"><img align="center" height="232rem" src="https://github-readme-stats.vercel.app/api?username=KayoRonald&theme=nord&show_icons=false&count_private=true&hide_border=true&layout=compact" /></a><br>
+</h1>
+
